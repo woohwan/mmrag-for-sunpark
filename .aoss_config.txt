@@ -1,0 +1,2 @@
+AOSS_host_name: https://y1ehdpnnwqu79u66x6s3.us-east-1.aoss.amazonaws.com
+AOSS_index_name: mmrag
