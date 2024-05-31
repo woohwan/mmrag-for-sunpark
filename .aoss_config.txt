@@ -1,2 +1,6 @@
 AOSS_host_name: https://y1ehdpnnwqu79u66x6s3.us-east-1.aoss.amazonaws.com
 AOSS_index_name: mmrag
+KB_id: ZAAHJJ7HSV
+DS_id: 1W8YEAKUAZ
+Region: us-east-1
+S3_bucket_name: mmrag-for-sunpark
